@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007.10.10 15:38:42.240.pas,C:\Documents and Settings\Rouse_\My Documents\RAD Studio\Projects\Unit32.pas=D:\Programm\NewDemo\SYSTEM\Список установленных устройств\DevList\uMain.pas</Transaction>
+    <Transaction>2007.10.10 15:38:42.240.dfm,C:\Documents and Settings\Rouse_\My Documents\RAD Studio\Projects\Unit32.dfm=D:\Programm\NewDemo\SYSTEM\Список установленных устройств\DevList\uMain.dfm</Transaction>
+    <Transaction>2007.10.10 15:38:46.571.dproj,C:\Documents and Settings\Rouse_\My Documents\RAD Studio\Projects\Project32.dproj=D:\Programm\NewDemo\SYSTEM\Список установленных устройств\DevList\DevList.dproj</Transaction>
+    <Transaction>2007.10.10 15:47:33.598.pas,D:\Programm\NewDemo\SYSTEM\Список установленных устройств\DevList\uMain.pas=D:\Programm\NewDemo\SYSTEM\Список установленных устройств\DevList\Source\uMain.pas</Transaction>
+    <Transaction>2007.10.10 15:47:33.598.dfm,D:\Programm\NewDemo\SYSTEM\Список установленных устройств\DevList\uMain.dfm=D:\Programm\NewDemo\SYSTEM\Список установленных устройств\DevList\Source\uMain.dfm</Transaction>
+    <Transaction>2007.10.10 18:48:05.897.pas,D:\Programm\NewDemo\SYSTEM\Список установленных устройств\DevList\Unit1.pas=D:\Programm\NewDemo\SYSTEM\Список установленных устройств\DevList\Source\DeviceHelper.pas</Transaction>
+    <Transaction>2007.10.11 10:24:25.639.pas,D:\Programm\NewDemo\SYSTEM\Список установленных устройств\DevList\Unit1.pas=D:\Programm\NewDemo\SYSTEM\Список установленных устройств\DevList\Source\DevGuid.pas</Transaction>
+    <Transaction>2007.10.11 11:48:25.199.pas,D:\Programm\NewDemo\SYSTEM\Список установленных устройств\DevList\Source\WinConvTypes.pas=</Transaction>
+    <Transaction>2007.10.11 11:48:25.214.pas,D:\Programm\NewDemo\SYSTEM\Список установленных устройств\DevList\Source\DevGuid.pas=</Transaction>
+    <Transaction>2007.10.11 11:48:25.230.pas,D:\Programm\NewDemo\SYSTEM\Список установленных устройств\DevList\Source\CfgMgr32.pas=</Transaction>
+    <Transaction>2007.10.11 11:48:25.246.pas,D:\Programm\NewDemo\SYSTEM\Список установленных устройств\DevList\Source\Cfg.pas=</Transaction>
+    <Transaction>2007.10.11 16:03:02.551.pas,D:\Programm\NewDemo\SYSTEM\Список установленных устройств\DevList\Unit1.pas=D:\Programm\NewDemo\SYSTEM\Список установленных устройств\DevList\Source\Common.pas</Transaction>
+    <Transaction>2007.10.12 12:12:29.615.pas,D:\Programm\NewDemo\SYSTEM\Список установленных устройств\DevList\Source\Cfg.pas=</Transaction>
+    <Transaction>2007.10.12 12:12:29.645.pas,D:\Programm\NewDemo\SYSTEM\Список установленных устройств\DevList\Source\CfgMgr32.pas=</Transaction>
+    <Transaction>2007.10.12 12:12:29.645.pas,D:\Programm\NewDemo\SYSTEM\Список установленных устройств\DevList\Source\WinConvTypes.pas=</Transaction>
+    <Transaction>2007.10.12 13:40:58.652.pas,D:\Programm\NewDemo\SYSTEM\Список установленных устройств\DevList\Unit1.pas=D:\Programm\NewDemo\SYSTEM\Список установленных устройств\DevList\Source\ListViewHelper.pas</Transaction>
+  </Transactions>
+</BorlandProject>
